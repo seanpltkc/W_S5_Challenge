@@ -29,6 +29,7 @@ async function sprintChallenge5() { // Note the async keyword so you can use `aw
       // You can log them for verification
       console.log('Learners:', learners);
       console.log('Mentors:', mentors);
+      // hello
   
       // Return the data if needed for further tasks
       return { learners, mentors };
